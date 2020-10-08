@@ -1,4 +1,4 @@
 *.db
-.idea
+.idea/
 vendor/
 build/
